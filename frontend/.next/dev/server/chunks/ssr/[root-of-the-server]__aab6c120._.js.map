@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/Balu/Balu%20files/Myself/NeuroTester/frontend/src/components/AuthForm.tsx"],"sourcesContent":["export default function AuthForm() {\r\n    return (\r\n        <div className=\"card max-w-md mx-auto mt-20\">\r\n        <h2 className=\"text-xl mb-6 font-semibold\">Login</h2>\r\n\r\n        <input className=\"input mb-4\" placeholder=\"Email\" />\r\n        <input type=\"password\" className=\"input mb-4\" placeholder=\"Password\" />\r\n\r\n        <button className=\"btn w-full\">Login</button>\r\n        </div>\r\n    );\r\n    }"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,mRAAC;QAAI,WAAU;;0BACf,mRAAC;gBAAG,WAAU;0BAA6B;;;;;;0BAE3C,mRAAC;gBAAM,WAAU;gBAAa,aAAY;;;;;;0BAC1C,mRAAC;gBAAM,MAAK;gBAAW,WAAU;gBAAa,aAAY;;;;;;0BAE1D,mRAAC;gBAAO,WAAU;0BAAa;;;;;;;;;;;;AAGnC"}},
+    {"offset": {"line": 68, "column": 0}, "map": {"version":3,"sources":["file:///D:/Balu/Balu%20files/Myself/NeuroTester/frontend/src/app/access/page.tsx"],"sourcesContent":["import AuthForm from \"../../components/AuthForm\";\r\n\r\nexport default function AccessPage() {\r\n    return (\r\n        <div className=\"flex items-center justify-center h-full\">\r\n        <AuthForm />\r\n        </div>\r\n    );\r\n    }"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,mRAAC;QAAI,WAAU;kBACf,cAAA,mRAAC,8KAAQ;;;;;;;;;;AAGb"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/Balu/Balu%20files/Myself/NeuroTester/frontend/src/components/AuthForm.tsx"],"sourcesContent":["\"use client\";\r\n\r\n    export default function AuthForm() {\r\n    return (\r\n        <div className=\"bg-gray-100 p-6 rounded-xl w-80\">\r\n\r\n        <h2 className=\"text-center mb-4 font-bold\">\r\n            Access Portal\r\n        </h2>\r\n\r\n        <input className=\"input\" placeholder=\"Phone Number\" />\r\n\r\n        <button className=\"btn mt-4 w-full\">\r\n            Request OTP\r\n        </button>\r\n\r\n        <p className=\"text-xs text-center mt-4\">\r\n            OTP is always 123456\r\n        </p>\r\n\r\n        </div>\r\n    );\r\n}"],"names":[],"mappings":";;;;;AAAA;;AAEmB,SAAS;IACxB,qBACI,mRAAC;QAAI,WAAU;;0BAEf,mRAAC;gBAAG,WAAU;0BAA6B;;;;;;0BAI3C,mRAAC;gBAAM,WAAU;gBAAQ,aAAY;;;;;;0BAErC,mRAAC;gBAAO,WAAU;0BAAkB;;;;;;0BAIpC,mRAAC;gBAAE,WAAU;0BAA2B;;;;;;;;;;;;AAMhD"}}]
+}
